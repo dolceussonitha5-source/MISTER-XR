@@ -1,0 +1,14 @@
+{
+  "name": "mister-xr",
+  "version": "1.0.0",
+  "description": "MISTER XR WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.20",
+    "express": "^4.21.2",
+    "pino": "^9.0.0"
+  }
+}
